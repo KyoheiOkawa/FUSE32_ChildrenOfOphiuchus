@@ -1,4 +1,10 @@
-﻿using System.Collections;
+/*
+ *@file Cloud.cs
+ *@brief 障害物　雷雲のクラス
+ *@author KyoheiOkawa
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
